@@ -52,7 +52,7 @@
     "mkdirp": "1.0.4",
     "mocha": "7.1.2",
     "standard": "14.3.3",
-    "uglify-js": "3.9.1",
+    "uglify-js": "3.9.2",
     "webpack": "4.43.0"
   },
   "files": [
